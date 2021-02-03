@@ -7,15 +7,15 @@ Instructor: Sybil Adams <br>
 Hochschule Karlsruhe – Technik und Wirtschaft
 Karlsruhe University of Applied Sciences
 
-Download Full Project as Zip File <a href="https://github.com/absmizi/Final_Course_Project/archive/main.zip">Full Project as Zip File</a>
+<a href="https://github.com/absmizi/Final_Course_Project/archive/main.zip">Download Full Project as Zip File</a>
 
-View Demo at <a href="https://absmizi.github.io/Final_Course_Project/">Final Project</a>
+<a href="https://absmizi.github.io/Final_Course_Project/">View Demo</a>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/absmizi/Final_Course_Project/main/Website_Demo.png"><img src="https://raw.githubusercontent.com/absmizi/Final_Course_Project/main/Website_Demo.png" style="max-width:100%;"></a></p>
 
-View Demo at <a href="https://absmizi.github.io/Final_Course_Project/">Final Project</a>
+<a href="https://absmizi.github.io/Final_Course_Project/">View Demo</a>
 
-Download Full Project as Zip File <a href="https://github.com/absmizi/Final_Course_Project/archive/main.zip">Full Project as Zip File</a>
+<a href="https://github.com/absmizi/Final_Course_Project/archive/main.zip">Download Full Project as Zip File</a>
 
 Project tools:
 
