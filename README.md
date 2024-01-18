@@ -19,7 +19,7 @@ Karlsruhe University of Applied Sciences
 
 Project tools:
 
-1. 	<b> HTML (index.html) <br>
+1. 	<b> HTML (index.html) </b>
 2.	CSS (style.css,map_style.css)
 3.	JavaScript (map.js, outlets.js, slick_slider.js)
 		Libraries:https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js https://unpkg.com/leaflet@1.7.1/dist/leaflet.js
